@@ -1,0 +1,15 @@
+1.) I chose the Baywheels data set
+2.) 
+	A.)"Summary Of Findings":
+		- My main point is that the longer and farther rides are ridden by electric riders. I put the plot that compared distance/time for different rideable types which is how I came to that conclusion. Another conclusion I came 		  to is that there is a linear relationship between ride time and distance traveled. 
+	B.) "Key insights":
+		- Plotting the Distance vs the Ride Time produces a linear relationship. The majority of riders are within a 30 minute bike ride within a 3 mile trip.
+		- When comparing distance to time ridden, it is clear that there are spikes near the .5 mile mark and the .8 mile mark.
+		- Ride time has a long-tailed distribution, with most ride times being on lower end and few ride times on the higher end. When plotted on a log-scale, the ride time distribution looks unimodal that is slightly skewed right. There is a peak around 8-10 minute mark with outliers near the 18-20 minute mark and again at around 26-28 minute mark.
+
+There are a lot more spikes, the .5 mile mark, the ~.65 mile mark, and the .85 mile mark.
+3.) No Feedback
+4.) 
+	A.) https://www.kite.com/python/answers/how-to-find-the-distance-between-two-lat-long-coordinates-in-python - Calculating distance for Lat/Long coordinates. 
+	B.) https://www.programiz.com/python-programming/examples/km-mile - Found the conversion rate for Lat/Long
+	C.) Stackoverflow.com for everything else
